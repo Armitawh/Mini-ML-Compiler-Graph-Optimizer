@@ -9,8 +9,6 @@ This project demonstrates a **mini ML compiler** built in Python that performs *
 
 The project benchmarks **inference time before and after optimization** and visualizes computation graphs using NetworkX and Matplotlib.
 
-It is designed to be run entirely on a laptop — no specialized hardware is required.
-
 ---
 
 ## Features
